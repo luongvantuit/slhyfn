@@ -1,0 +1,22 @@
+{
+  "name": "gw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.14",
+    "@hyperledger/fabric-gateway": "^1.2.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fabric-network": "^2.2.18",
+    "js-yaml": "^4.1.0",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.1",
+    "nodemon": "^2.0.22",
+    "randomstring": "^1.2.3",
+    "text-encoding": "^0.7.0",
+    "yup": "^1.2.0"
+  }
+}
